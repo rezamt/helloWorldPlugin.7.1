@@ -1,4 +1,4 @@
-# helloWorldPlugin.7.1
+# IdentityIQ HelloWorld Plugin (7.1 +)
 A Hello World plugin for IIQ 7.1
 
 # References
